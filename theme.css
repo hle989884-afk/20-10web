@@ -1,0 +1,15 @@
+:root {
+  --pink-pascal: #FFB7C5;
+  --lavender: #B497BD;
+  --accent: #70466f;
+  --bg: #fff9fb;
+  --ink: #342b39;
+  --muted: #665a69;
+  --surface: #ffffff;
+  --surface-pink: #fff0f4;
+  --line: #eadce9;
+  --shadow: 0 24px 70px rgba(93, 55, 86, .12);
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --radius-card: 24px;
+}
